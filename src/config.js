@@ -1,4 +1,4 @@
-export const REST_API_ENDPOINT = `http://localhost:4000`;
+export const REST_API_ENDPOINT = `https://shrouded-stream-44632-cd39131a61d5.herokuapp.com`;
 export const REGISTER_USER_ENDPOINT = `${REST_API_ENDPOINT}/register`;
 export const LOGIN_USER_ENDPOINT = `${REST_API_ENDPOINT}/login`;
 export const USER_METADATA_ENDPOINT = `${REST_API_ENDPOINT}/user-metadata`;
